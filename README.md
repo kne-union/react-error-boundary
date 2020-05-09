@@ -39,4 +39,4 @@ const SomeComponent2 = ()=>{
 |errorRender|当子组件发生错误的时候执行该方法，并传入参数error，需要返回jsx，注意:当errorComponent存在时该方法会被忽略|func|- |
 |onError|当子组件发生错误的时候执行该方法|func|- |
 
-### change log:
+# Change Log:
