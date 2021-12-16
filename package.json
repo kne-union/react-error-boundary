@@ -1,6 +1,6 @@
 {
   "name": "@kne/react-error-boundary",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "用于捕捉react组件错误",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -43,9 +43,9 @@
     ]
   },
   "peerDependencies": {
-    "prop-types": "15.x",
-    "react": "16.x",
-    "react-dom": "16.x"
+    "prop-types": ">=15.x",
+    "react": ">=16.x",
+    "react-dom": ">=16.x"
   },
   "dependencies": {
     "@babel/runtime": "^7.7.7"
